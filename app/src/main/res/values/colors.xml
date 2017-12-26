@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#062f4f</color>
+    <color name="colorPrimaryDark">#373737</color>
+    <color name="colorAccent">#07889b</color>
+
+    <color name="number">#4abdac</color>
+
+    <color name="color">#f7b733</color>
+
+    <color name="phrases">#dfdce3</color>
+
+    <color name="family">#fc4a1a</color>
+
+    <color name="phrasestextview">#29577B</color>
+
+    <color name="relationstextview">#022037</color>
+
+    <color name="colortetxview">#154366</color>
+
+    <color name="numbertextview">#041439</color>
+</resources>

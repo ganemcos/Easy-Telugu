@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/b"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        style="@style/mainscreen"
+        android:background="@color/number"
+        android:onClick="numberActivity"
+        android:text="@string/Numbers" />
+
+    <TextView
+        style="@style/mainscreen"
+        android:background="@color/family"
+        android:onClick="familyActivity"
+        android:text="@string/family" />
+
+    <TextView
+        style="@style/mainscreen"
+        android:background="@color/color"
+        android:onClick="greetingsActivity"
+        android:text="@string/Greetings" />
+
+    <TextView
+        style="@style/mainscreen"
+        android:background="@color/phrases"
+        android:onClick="pharsesActivity"
+        android:text="@string/Phrases" />
+
+
+</LinearLayout>
